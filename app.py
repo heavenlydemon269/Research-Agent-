@@ -66,14 +66,14 @@ def run_research_agent(company_name, job_role):
     Your final answer MUST be a comprehensive summary structured into two clear sections using Markdown:
 
     ### *Company Overview*
-    * **Domain/Industry**: What is the company's primary domain or industry?
-    * **Size**: What is its approximate size (e.g., number of employees)?
-    * **Recent News**: Find and summarize one or two recent, significant news articles about the company.
+    * *Domain/Industry*: What is the company's primary domain or industry?
+    * *Size*: What is its approximate size (e.g., number of employees)?
+    * *Recent News*: Find and summarize one or two recent, significant news articles about the company.
 
-    ### **Role-Specific Requirements**
-    * **Common Skills**: What are the most commonly required skills for an '{job_role}' at this company or in the industry?
-    * **Experience Level**: What is the typical level of experience (e.g., years, degrees) needed?
-    * **Salary Range**: What is the estimated salary range for this role? If a specific range for the company isn't available, provide a general industry estimate.
+    ### *Role-Specific Requirements*
+    * *Common Skills*: What are the most commonly required skills for an '{job_role}' at this company or in the industry?
+    * *Experience Level*: What is the typical level of experience (e.g., years, degrees) needed?
+    * *Salary Range*: What is the estimated salary range for this role? If a specific range for the company isn't available, provide a general industry estimate.
     """
 
     # Invoke the agent and get the response
