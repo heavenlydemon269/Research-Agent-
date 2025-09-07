@@ -65,7 +65,7 @@ def run_research_agent(company_name, job_role):
 
     Your final answer MUST be a comprehensive summary structured into two clear sections using Markdown:
 
-    ### **Company Overview**
+    ### *Company Overview*
     * **Domain/Industry**: What is the company's primary domain or industry?
     * **Size**: What is its approximate size (e.g., number of employees)?
     * **Recent News**: Find and summarize one or two recent, significant news articles about the company.
